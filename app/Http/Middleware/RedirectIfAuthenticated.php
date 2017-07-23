@@ -1,4 +1,4 @@
-<?php namespace test\Http\Middleware;
+<?php namespace app\Http\Middleware;
 
 use Closure;
 use Illuminate\Contracts\Auth\Guard;

@@ -140,11 +140,11 @@ return [
 		/*
 		 * Application Service Providers...
 		 */
-		'test\Providers\AppServiceProvider',
-		'test\Providers\BusServiceProvider',
-		'test\Providers\ConfigServiceProvider',
-		'test\Providers\EventServiceProvider',
-		'test\Providers\RouteServiceProvider',
+		'app\Providers\AppServiceProvider',
+		'app\Providers\BusServiceProvider',
+		'app\Providers\ConfigServiceProvider',
+		'app\Providers\EventServiceProvider',
+		'app\Providers\RouteServiceProvider',
 
 	],
 

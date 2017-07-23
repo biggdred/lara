@@ -1,6 +1,6 @@
 <?php
 
-namespace test\http\controller\dir ;
+namespace app\http\controller\dir ;
 
 class Controller2{
 

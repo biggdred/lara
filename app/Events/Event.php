@@ -1,4 +1,4 @@
-<?php namespace test\Events;
+<?php namespace app\Events;
 
 abstract class Event {
 
