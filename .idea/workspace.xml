@@ -63,9 +63,11 @@
       <file leaf-file-name="TestController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Dir/TestController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1893">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="157">
+              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+              <folding>
+                <element signature="e#43#65#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -307,7 +309,7 @@
       <updated>1500701331503</updated>
       <workItem from="1500701333331" duration="3725000" />
       <workItem from="1500817716077" duration="3864000" />
-      <workItem from="1500877884233" duration="1455000" />
+      <workItem from="1500877884233" duration="1636000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1500703009536</created>
@@ -337,11 +339,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500820796362</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="creating 2 new empty controller :&quot;test&quot; and &quot;TestController&quot;">
+      <created>1500879702873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1500879702873</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9044000" />
+    <option name="totallyTimeSpent" value="9225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="197" y="164" width="868" height="568" extended-state="0" />
@@ -401,7 +410,8 @@
     <MESSAGE value="created my test controller" />
     <MESSAGE value="Set the application namespace &quot;test&quot;" />
     <MESSAGE value=" return namespace &quot;app&quot; Set the application namespace &quot;app&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value=" return namespace &quot;app&quot; Set the application namespace &quot;app&quot;" />
+    <MESSAGE value="creating 2 new empty controller :&quot;test&quot; and &quot;TestController&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating 2 new empty controller :&quot;test&quot; and &quot;TestController&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -448,6 +458,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -455,6 +466,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -560,9 +572,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Dir/TestController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1893">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="157">
+          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <folding>
+            <element signature="e#43#65#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
