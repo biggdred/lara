@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a6d33f8-7ee5-42e2-9fa3-f667b7b263d8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="5a6d33f8-7ee5-42e2-9fa3-f667b7b263d8" name="Default" comment="" />
     <ignored path="lara.loc.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -63,8 +61,8 @@
       <file leaf-file-name="TestController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Dir/TestController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+            <state relative-caret-position="82">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#43#65#0#PHP" expanded="true" />
               </folding>
@@ -309,7 +307,7 @@
       <updated>1500701331503</updated>
       <workItem from="1500701333331" duration="3725000" />
       <workItem from="1500817716077" duration="3864000" />
-      <workItem from="1500877884233" duration="1636000" />
+      <workItem from="1500877884233" duration="1695000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1500703009536</created>
@@ -346,11 +344,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500879702873</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="creating 2 new empty controller :&quot;test&quot; and &quot;TestController&quot;">
+      <created>1500879731424</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1500879731424</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9225000" />
+    <option name="totallyTimeSpent" value="9284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="197" y="164" width="868" height="568" extended-state="0" />
@@ -572,8 +577,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Dir/TestController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        <state relative-caret-position="82">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#43#65#0#PHP" expanded="true" />
           </folding>
