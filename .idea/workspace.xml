@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a6d33f8-7ee5-42e2-9fa3-f667b7b263d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/Page.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
     </list>
     <ignored path="lara.loc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -371,7 +369,7 @@
       <updated>1500701331503</updated>
       <workItem from="1500701333331" duration="3725000" />
       <workItem from="1500817716077" duration="3864000" />
-      <workItem from="1500877884233" duration="7062000" />
+      <workItem from="1500877884233" duration="7121000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1500703009536</created>
@@ -422,11 +420,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500884503070</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="creating my page ,her model and controller and view">
+      <created>1500888794836</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1500888794836</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14651000" />
+    <option name="totallyTimeSpent" value="14710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
@@ -488,7 +493,8 @@
     <MESSAGE value=" return namespace &quot;app&quot; Set the application namespace &quot;app&quot;" />
     <MESSAGE value="creating 2 new empty controller :&quot;test&quot; and &quot;TestController&quot;" />
     <MESSAGE value="add new routs my page" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new routs my page" />
+    <MESSAGE value="creating my page ,her model and controller and view" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating my page ,her model and controller and view" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
